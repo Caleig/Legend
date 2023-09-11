@@ -1,0 +1,198 @@
+Mods: {
+	LegendMod: {
+		Items: {
+			DragonWing: {
+				DisplayName: 龙翼
+				// Tooltip: ""
+			}
+
+			GuardianoftheHeroicSpirit: {
+				DisplayName: 英灵之护
+				Tooltip:
+					'''
+					你变得勇敢。
+					加速生命恢复
+					'''
+			}
+
+			HeartofBlood: {
+				DisplayName: 血之心
+				Tooltip:
+					'''
+					它仍在跳动。
+					生命值上限增加50
+					加速生命恢复
+					'''
+			}
+
+			TerraShield: {
+				DisplayName: 泰拉盾
+				Tooltip:
+					'''
+					英雄的守护。
+					加速生命恢复
+					免疫绝大多数减益
+					'''
+			}
+
+			AbyssalMagicBook: {
+				DisplayName: 深渊大魔导
+				Tooltip: 召唤邪灵。
+			}
+
+			Fatebearer: {
+				DisplayName: 命运承载者
+				Tooltip:
+					'''
+					“敌人的命运已经注定。”
+					发射追踪敌人的光球
+					'''
+			}
+
+			KingGreatSword: {
+				DisplayName: 国王巨剑
+				Tooltip: 过于沉重，但是十分华丽。
+			}
+
+			MechanicalPwoerSword: {
+				DisplayName: 机械动力剑
+				Tooltip: 你能发挥更强的力量！
+			}
+
+			MoltenDragonBreathCannon: {
+				DisplayName: 熔火龙息炮
+				Tooltip: 世界上最耐高温的物质在它面前像蜡一样融化。
+			}
+
+			NoisyCricket: {
+				DisplayName: 小蟋蟀
+				Tooltip: 它小小的，应该没有多大威力。
+			}
+
+			SingofWoods: {
+				// DisplayName: 森林轻语
+				// Tooltip: ""
+			}
+
+			sword: {
+				// DisplayName: 残念
+				/* Tooltip:
+					'''
+					以切玉断金，如削土木矣
+					右键向鼠标方向冲刺，冲刺过程中附带伤害
+					''' */
+			}
+
+			WrathoftheSea: {
+				DisplayName: 大洋之怒
+				Tooltip:
+					'''
+					大海的愤怒就是自然的愤怒！
+					“迷你鲨的终极版本。”
+					'''
+			}
+
+			Shieldfish: {
+				DisplayName: 亘古卵
+				// Tooltip: ""
+			}
+
+			pangpang: {
+				// DisplayName: 二踢脚
+				// Tooltip: 过年了，嘿嘿
+			}
+
+			HighStrengthAlloy: {
+				DisplayName: 高强度合金
+				// Tooltip: ""
+			}
+
+			SharpTooth: {
+				DisplayName: 锋利牙齿
+				Tooltip: 不要割伤你的手指。
+			}
+
+			CarbonFiberKnife: {
+				// DisplayName: Carbon Fiber Knife
+				// Tooltip: ""
+			}
+
+			Eliminate: {
+				// DisplayName: Eliminate
+				// Tooltip: ""
+			}
+
+			MandalaHatchet: {
+				// DisplayName: Mandala Hatchet
+				// Tooltip: ""
+			}
+
+			shi: {
+				// DisplayName: shi
+				// Tooltip: ""
+			}
+
+			ElectronicComputingChips: {
+				// DisplayName: Electronic Computing Chips
+				// Tooltip: ""
+			}
+
+			NeuronIntegration: {
+				// DisplayName: Neuron Integration
+				// Tooltip: ""
+			}
+
+			QuantumComputingChips: {
+				// DisplayName: Quantum Computing Chips
+				// Tooltip: ""
+			}
+
+			Silicon: {
+				// DisplayName: Silicon
+				// Tooltip: ""
+			}
+
+			Impasse: {
+				// DisplayName: Impasse
+				// Tooltip: ""
+			}
+		}
+
+		NPCs: {
+			// Shieldfish.DisplayName: 盾皮鱼
+			Alligator.DisplayName: 鳄鱼
+			ProbeRobot.DisplayName: 探针机器人
+			// 湖王.DisplayName: 湖王
+			// SkeletonGiant.DisplayName: Skeleton Giant
+			// SkeletonGiant_Elite.DisplayName: Skeleton Giant_ Elite
+		}
+
+		Buffs: {
+			Vine: {
+				// DisplayName: Mods.LegendMod.BuffName.Vine
+				// Description: Mods.LegendMod.BuffDescription.Vine
+			}
+
+			ImpasseBuff: {
+				// DisplayName: Impasse Buff
+				// Description: Mods.LegendMod.Buffs.ImpasseBuff.Description
+			}
+		}
+
+		Projectiles: {
+			CrescentMoonSlash.DisplayName: 弦月斩
+			// bang.DisplayName: "二踢脚 "
+			// pangpang.DisplayName: "二踢脚 "
+			redsword.DisplayName: 猩红剑气
+			// SingtheWoods.DisplayName: Singthe Woods
+			// swords.DisplayName: testsword
+			// swordlight.DisplayName: swordlight
+			// vertex.DisplayName: vertex
+			// wave.DisplayName: wave
+			// MandalaHatchet.DisplayName: Mandala Hatchet
+			// shi.DisplayName: shi
+			// RedBigProj.DisplayName: Red Big Proj
+			// DarkRedCut.DisplayName: Dark Red Cut
+		}
+	}
+}

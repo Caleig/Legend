@@ -1,0 +1,198 @@
+Mods: {
+	LegendMod: {
+		Items: {
+			DragonWing: {
+				DisplayName: Dragon Wing
+				Tooltip: ""
+			}
+
+			GuardianoftheHeroicSpirit: {
+				DisplayName: Guardian of the Heroic Spirit
+				Tooltip:
+					'''
+					you become brave.
+					Extremely tough
+					'''
+			}
+
+			HeartofBlood: {
+				DisplayName: Heart of blood
+				Tooltip:
+					'''
+					it's still pulsing.
+					MaxLife+50
+					Accelerates life recovery.
+					'''
+			}
+
+			TerraShield: {
+				DisplayName: Terra Shield
+				Tooltip:
+					'''
+					Hero's Protection.
+					Extremely tough
+					Immunity to most debuffs
+					'''
+			}
+
+			AbyssalMagicBook: {
+				DisplayName: Abyssal Magic Book
+				Tooltip: Summon evil spirits.
+			}
+
+			Fatebearer: {
+				DisplayName: Fatebearer
+				Tooltip:
+					'''
+					The fate of the enemy has been doomed.
+					Fire balls of light that track enemies
+					'''
+			}
+
+			KingGreatSword: {
+				DisplayName: King's GreatSword
+				Tooltip: Too heavy, but very gorgeous.
+			}
+
+			MechanicalPwoerSword: {
+				DisplayName: Mechanical Pwoer Sword
+				Tooltip: You can exert more power！
+			}
+
+			MoltenDragonBreathCannon: {
+				DisplayName: Molten Dragon Breath Cannon
+				Tooltip: The world's most heat-resistant substance melts like wax in front of it.
+			}
+
+			NoisyCricket: {
+				DisplayName: Noisy Cricket
+				Tooltip: It's small and shouldn't have much power.
+			}
+
+			SingofWoods: {
+				DisplayName: 森林轻语
+				Tooltip: ""
+			}
+
+			sword: {
+				DisplayName: 残念
+				Tooltip:
+					'''
+					以切玉断金，如削土木矣
+					右键向鼠标方向冲刺，冲刺过程中附带伤害
+					'''
+			}
+
+			WrathoftheSea: {
+				DisplayName: Wrath of the Sea
+				Tooltip:
+					'''
+					The wrath of the sea is the wrath of nature!
+					“Final version of the Minishark.”
+					'''
+			}
+
+			Shieldfish: {
+				DisplayName: Shieldfish Egg
+				Tooltip: ""
+			}
+
+			pangpang: {
+				DisplayName: 二踢脚
+				Tooltip: 过年了，嘿嘿
+			}
+
+			HighStrengthAlloy: {
+				DisplayName: High Strength Alloy
+				Tooltip: ""
+			}
+
+			SharpTooth: {
+				DisplayName: Sharp tooth
+				Tooltip: Don't cut your fingers.
+			}
+
+			CarbonFiberKnife: {
+				DisplayName: Carbon Fiber Knife
+				Tooltip: ""
+			}
+
+			Eliminate: {
+				DisplayName: Eliminate
+				Tooltip: ""
+			}
+
+			MandalaHatchet: {
+				DisplayName: Mandala Hatchet
+				Tooltip: ""
+			}
+
+			shi: {
+				DisplayName: shi
+				Tooltip: ""
+			}
+
+			ElectronicComputingChips: {
+				DisplayName: Electronic Computing Chips
+				Tooltip: ""
+			}
+
+			NeuronIntegration: {
+				DisplayName: Neuron Integration
+				Tooltip: ""
+			}
+
+			QuantumComputingChips: {
+				DisplayName: Quantum Computing Chips
+				Tooltip: ""
+			}
+
+			Silicon: {
+				DisplayName: Silicon
+				Tooltip: ""
+			}
+
+			Impasse: {
+				DisplayName: Impasse
+				Tooltip: ""
+			}
+		}
+
+		NPCs: {
+			Shieldfish.DisplayName: 盾皮鱼
+			Alligator.DisplayName: Alligator
+			ProbeRobot.DisplayName: Probe Robot
+			湖王.DisplayName: 湖王
+			SkeletonGiant.DisplayName: Skeleton Giant
+			SkeletonGiant_Elite.DisplayName: Skeleton Giant_ Elite
+		}
+
+		Buffs: {
+			Vine: {
+				DisplayName: Mods.LegendMod.BuffName.Vine
+				Description: Mods.LegendMod.BuffDescription.Vine
+			}
+
+			ImpasseBuff: {
+				DisplayName: Impasse Buff
+				Description: Mods.LegendMod.Buffs.ImpasseBuff.Description
+			}
+		}
+
+		Projectiles: {
+			CrescentMoonSlash.DisplayName: Crescent Moon Slash
+			bang.DisplayName: "二踢脚 "
+			pangpang.DisplayName: "二踢脚 "
+			redsword.DisplayName: red sword slash
+			SingtheWoods.DisplayName: Singthe Woods
+			swords.DisplayName: testsword
+			swordlight.DisplayName: swordlight
+			vertex.DisplayName: vertex
+			wave.DisplayName: wave
+			MandalaHatchet.DisplayName: Mandala Hatchet
+			shi.DisplayName: shi
+			RedBigProj.DisplayName: Red Big Proj
+			DarkRedCut.DisplayName: Dark Red Cut
+		}
+	}
+}

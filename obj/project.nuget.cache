@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a71GuOtNkhBp5T212j0i/y+A9+ebVECgpilj/nI0hhzK02NeUT6LUnAyd/UZ2OCSoJMQ46lXMGa258XYWgXKnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LegendMod\\LegendMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
